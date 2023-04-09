@@ -1,3 +1,8 @@
+
+---
+> Currently only tested on **Windows**.
+---
+
 # `std::mrowr`
 
 [Mrowr Purr](https://github.com/mrowrpurr)'s libraries.
