@@ -4,7 +4,7 @@
 
 # License
 
-Unless the repo says otherwise, all libraries are [`0BSD`](https://opensource.org/license/0bsd/) licensed.
+Unless the repo says otherwise\*, all libraries are [`0BSD`](https://opensource.org/license/0bsd/) licensed.
 
 Use them however you want, no attribution required.
 
@@ -22,6 +22,8 @@ OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
 TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
 THIS SOFTWARE.
 ```
+
+\* _some repos may be forks! they retain their original licences_
 
 ---
 
