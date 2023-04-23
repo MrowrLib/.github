@@ -9,6 +9,8 @@
 
 ## C++
 
+> All libraries are available as both `xmake` and `vcpkg` packages
+
 - [`#include <_Log_>`](https://github.com/MrowrLib/_Log_.cpp)
 - [`#include <assembly>`](https://github.com/MrowrLib/assembly.cpp)
 - [`#include <dll_injection>`](https://github.com/MrowrLib/dll_injection.cpp)
