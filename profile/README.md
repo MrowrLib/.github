@@ -7,6 +7,14 @@
 
 [Mrowr Purr](https://github.com/mrowrpurr)'s libraries.
 
+## C++
+
+- [`#include <string_format>`](https://github.com/MrowrLib/string_format.cpp)
+- [`#include <_Log_>`](https://github.com/MrowrLib/_Log_.cpp)
+- [`#include <memory_util>`](https://github.com/MrowrLib/memory_util.cpp)
+- [`#include <assembly>`](https://github.com/MrowrLib/assembly.cpp)
+- [`#include <dll_injection>`](https://github.com/MrowrLib/dll_injection.cpp)
+
 # License
 
 Unless the repo says otherwise\*, all libraries are [`0BSD`](https://opensource.org/license/0bsd/) licensed.
