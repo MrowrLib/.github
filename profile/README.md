@@ -1,8 +1,3 @@
-
----
-> Currently only tested on **Windows**.
----
-
 # `std::mrowr`
 
 [Mrowr Purr](https://github.com/mrowrpurr)'s libraries.
@@ -11,11 +6,13 @@
 
 > All libraries are available as both `xmake` and `vcpkg` packages
 
-- [`#include <_Log_>`](https://github.com/MrowrLib/_Log_.cpp)
-- [`#include <assembly>`](https://github.com/MrowrLib/assembly.cpp)
-- [`#include <dll_injection>`](https://github.com/MrowrLib/dll_injection.cpp)
-- [`#include <memory_util>`](https://github.com/MrowrLib/memory_util.cpp)
-- [`#include <string_format>`](https://github.com/MrowrLib/string_format.cpp)
+- [`#include <_Log_.h>`](https://github.com/MrowrLib/_Log_.h)
+- [`#include <assembly.h>`](https://github.com/MrowrLib/assembly.h)
+- [`#include <dll_injector.h>`](https://github.com/MrowrLib/dll_injector.h)
+- [`#include <function_pointer.h>`](https://github.com/MrowrLib/function_pointer.h)
+- [`#include <memory_util.h>`](https://github.com/MrowrLib/memory_util.h)
+- [`#include <string_format.h>`](https://github.com/MrowrLib/string_format.h)
+- [`#include <void_pointer.h>`](https://github.com/MrowrLib/void_pointer.h)
 
 # License
 
