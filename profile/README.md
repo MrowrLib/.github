@@ -12,6 +12,7 @@
 - [`#include <dependency_injection.h>`](https://github.com/MrowrLib/dependency_injection.h)
 - [`#include <dll_injector.h>`](https://github.com/MrowrLib/dll_injector.h)
 - [`#include <function_pointer.h>`](https://github.com/MrowrLib/function_pointer.h)
+- [`#include <managed_pointer.h>`](https://github.com/MrowrLib/managed_pointer.h)
 - [`#include <memory_util.h>`](https://github.com/MrowrLib/memory_util.h)
 - [`#include <string_format.h>`](https://github.com/MrowrLib/string_format.h)
 - [`#include <virtual_collections.h>`](https://github.com/MrowrLib/virtual_collections.h)
